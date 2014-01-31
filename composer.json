@@ -1,0 +1,21 @@
+{
+    "name": "chemisus/tessa",
+    "authors": [
+        {
+            "name": "Terrence Howard",
+            "email": "chemisus@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Tessa": "src/"
+        }
+    },
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "mockery/mockery": "*"
+    }
+}
