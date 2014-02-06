@@ -55,7 +55,7 @@ class Asset
         });
     }
 
-    public function template($path, $type = "script/ng-template")
+    public function template($path, $type = "text/ng-template")
     {
         $root = $this->root;
 
