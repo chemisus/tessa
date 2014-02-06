@@ -2,7 +2,7 @@
 
 namespace Tessa;
 
-class AssetFinder
+class Asset
 {
     private $root;
 
